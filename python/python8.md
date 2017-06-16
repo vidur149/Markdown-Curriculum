@@ -1,13 +1,10 @@
 # Kuch aur operators … 
 
 
-# Kuch aur operators … 
-
-
 **Yaad Rakhein:**
-“=” value daalne/assign-karne ke kaam aata hai.
+“=” value daalne/assign-karne ke kaam aata hai.  
 
-Par “==” yeh dekhne mei kaam aata hai ki do values same hai ya nahi.
+Par “==” yeh dekhne mei kaam aata hai ki do values same hai ya nahi.  
 
 Isliye “==” operator  “=” operator se alag hai.
 Python| Meaning 
