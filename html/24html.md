@@ -2,7 +2,6 @@
 
 * Ab hum flex ko use karna seekhenge. Flex mein 2 cheezein hoti hai
 1. **Items** - Jin HTML tags se hum layout bana rahe hain, woh items hote hai. Items ki kuch properties hoti hai jaise 
-
       **align-self, flex-grow, flex-basis,** etc
 
 .
