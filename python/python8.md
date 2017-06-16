@@ -16,6 +16,6 @@ Python| Meaning
 <=  | Chota ya barabar hai |
 ==  | Barabar hai |
 >=  | Bada hai ya barabar hai | 
->  | Barabar hai | 
+ >  | Barabar hai | 
 !>  | Barbar nhi hai |
 
