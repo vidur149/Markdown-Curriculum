@@ -12,6 +12,6 @@ hoti hai kyuki hum bahut saari values apni sahuliyat se list mei pack kar sakte 
 * etc.
 
 
-Iska example [navgurukul.org/python/list-1.py](navgurukul.org/python/list-1.py) mei hai  
-Exercise [navgurukul.org/python/list-a.py](navgurukul.org/python/list-a.py) mei hai
+Iska example [navgurukul.org/python/list-1.py](navgurukul.org/python/list-1.py) mei hai.  
+Exercise [navgurukul.org/python/list-a.py](navgurukul.org/python/list-a.py) mei hai.
 
