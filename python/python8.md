@@ -7,6 +7,9 @@
 Par “==” yeh dekhne mei kaam aata hai ki do values same hai ya nahi.  
 
 Isliye “==” operator  “=” operator se alag hai.
+
+
+
 Python| Meaning 
 ------- | ---------------- 
 <  | Chota hai | 
