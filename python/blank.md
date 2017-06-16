@@ -1,1 +1,0 @@
-# Python curriculum starts here
