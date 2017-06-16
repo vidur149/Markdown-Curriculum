@@ -6,6 +6,7 @@
 
 **<link rel="stylesheet" href="styles.css">**
 
+
 - line ko dono index.html aur kindness.html ke “head” tag khatam hone se pehle add karna hoga.
 
 - Aise hi aap kitni bhi files ko, same CSS file se style kar sakte ho.
