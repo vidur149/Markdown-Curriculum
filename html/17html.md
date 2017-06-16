@@ -15,3 +15,6 @@ _Dhyaan rakhe, agar file kisi aur folder mei hogi jaha index.html nahi hai toh a
 - Aapki ab website CSS ko add karne se sundar ban jayegi. 
 
 - Apki website kuch [iss tarah](https://abhishekgupta92.github.io/equality2/) se dikhega.
+
+
+# Incomplite File
