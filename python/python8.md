@@ -12,10 +12,9 @@ Isliye “==” operator  “=” operator se alag hai.
 
 Python| Meaning 
 ------- | ---------------- 
-<  | Chota hai | 
+<  | Chota hai |
 <=  | Chota ya barabar hai |
 ==  | Barabar hai |
->=  | Bada hai ya barabar hai | 
- ``>``  | Barabar hai | 
+>=  | Bada hai ya barabar hai |
 !>  | Barbar nhi hai |
-
+>  | Barabar hai |
