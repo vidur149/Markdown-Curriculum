@@ -11,7 +11,7 @@ Isliye “==” operator  “=” operator se alag hai.
 
 
 Python| Meaning 
-------- | ---------------- 
+------- | ---------------------------
 <  | Chota hai |
 <=  | Chota ya barabar hai |
 ==  | Barabar hai |
