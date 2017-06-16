@@ -1,7 +1,6 @@
 ### LISTS use kaise karte hai
 
-Sabse pehle yeh examples karein - [navgurukul.org/python/list-2.py](navgurukul.org/python/list-2.py)
-
+Sabse pehle yeh examples karein - [navgurukul.org/python/list-2.py](navgurukul.org/python/list-2.py)  
 Exercise: [navgurukul.org/python/list-b.py](navgurukul.org/python/list-b.py)
 
 Yeh example and exercise kar kar aapko yeh saari cheezein clear ho jani chahiye:
