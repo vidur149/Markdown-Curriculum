@@ -1,5 +1,7 @@
 ### Example
 
+
+```python
 if day == "Monday":
 	print "Rajma Chawal"
 elif day == "Tuesday": 
@@ -16,3 +18,4 @@ else:
 	print "Poha"
 print "Khayenge"
 
+```python
