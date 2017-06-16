@@ -5,6 +5,5 @@ yaani chipak jaata hai. Aur page ke contents ko scroll karte time bhi wo nahi hi
 
 
 - Assignment karne se pehle, yeh concepts padho aur samjho
-
-* Position (static, fixed, absolute) [en](http://www.w3schools.com/css/css_positioning.asp), hi
+    Position (static, fixed, absolute) [en](http://www.w3schools.com/css/css_positioning.asp), hi
 
