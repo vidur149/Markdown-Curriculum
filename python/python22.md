@@ -1,7 +1,7 @@
 # Functions Introduction
 
 - Functions ka use karke hum kuch code ek baar likh ke usse baar baar wahi kaam karva sakte hain.Aap abhi tak bahot functions ka use kar chuke ho. Iss code ko padho:  
->>> _ names_list = [“Fiza”, “Shivam”, “Imtiyaz”, “Deepanshu”, “Rahman”]
+``>>> _ names_list = [“Fiza”, “Shivam”, “Imtiyaz”, “Deepanshu”, “Rahman”]``
 >>> len(names_list)
 >>> 5
 
