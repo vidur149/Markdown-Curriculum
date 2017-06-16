@@ -14,8 +14,8 @@ Python| Meaning
 ------- | ---------------- 
 <  | Chota hai | 
 <=  | Chota ya barabar hai |
-==   | Barabar hai |
+==  | Barabar hai |
 >=  | Bada hai ya barabar hai | 
->  | Barabar hai        | 
-!>   | Barbar nhi hai |
+>  | Barabar hai | 
+!>  | Barbar nhi hai |
 
