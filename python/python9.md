@@ -8,3 +8,6 @@ Jaise integers ko add, subtract, divide, multiply, etc. kiya ja sakta hai (isko 
 
 Aise hi Booleans par bhi kuch special operations kiye ja sakte hai. Iske liye, yeh [**example**](http://navgurukul.org/python/booleans-1.py) and yeh [**exercise**](http://navgurukul.org/python/booleans-a.py) karo. Ab yeh [**exercise**](http://navgurukul.org/python/operators-multi-a.py) karo.
 
+
+
+
