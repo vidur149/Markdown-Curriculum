@@ -3,7 +3,7 @@
 - Kuch functions jo humne use kare hain, vapas kuch value dete hain. Matlab kuch data vapas dete hain. Abhi tak humne aise functions likhe hain jo kuch bhi vapas nahi dete. Yeh padho:
 
 
-_ x = len([1, 2, 3, 4, 5])
+  - x = len([1, 2, 3, 4, 5])
 x
 
 5				# humne say_hello pichli slide mein likha tha
