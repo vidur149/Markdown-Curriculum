@@ -1,8 +1,8 @@
 # Part IV
 
-- [Link] - Ismei aapko iss list ko use karna hai quotes ko change karne ke liye. Jab bhi user “Kuch Aur!” click karega toh aapko list mei se agli quote aur uska author dikhani hai. Aapko quote aur author 
+- [Link](https://codepen.io/navgurukul/full/qqyeQW) - Ismei aapko iss list ko use karna hai quotes ko change karne ke liye. Jab bhi user “Kuch Aur!” click karega toh aapko list mei se agli quote aur uska author dikhani hai. Aapko quote aur author 
 
-- [yaha]() par milegi.
+- [yaha](http://navgurukul.org/files/quotesarray.js) par milegi.
 
 
 
