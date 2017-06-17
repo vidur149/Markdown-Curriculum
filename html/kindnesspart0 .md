@@ -4,6 +4,8 @@ Folders banane se hume apni files dhundne mei aasaani hoti hai. Isliye abse hum 
 Iss website mein aapko pehle banaye gaye 2 pages ko link karna hai. Apne page per kissi dusre page ka link daalne ke liye hum **‘anchor tag’** ya ‘a tag’ ka use karte hai. Jaise,
 **<a href=“ html_file_ka_path”>** Link per jo display karna hai</a>
 _Assignment karne se pehle, yeh concepts padho aur samjho:_	
+
 - Linking pages
+
 - Files & Folders
 
