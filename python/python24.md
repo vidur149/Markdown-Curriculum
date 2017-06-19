@@ -6,7 +6,6 @@
 >>> x = len([1, 2, 3, 4, 5])
 >>> x
 5				# humne say_hello pichli slide mein likha tha
-
 >>> result = say_hello(‘Junisha’)
 Hello Junisha
 Aap kaise ho?
