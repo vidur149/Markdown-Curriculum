@@ -1,5 +1,4 @@
-### Functions in Lightbot
-
+# Functions in Lightbot
 
 Lightbot ke 2-2 level ko yaad karo. Yahan humne baar baar hone wala kaam - **Aage, Left, mudna, Aage Right Mudna** PROC1 mein daala hai.   
 Aur **P1** ka use kar ke MAIN mein iss kaam ko 4 baar kara hai.  
@@ -10,6 +9,5 @@ Isse humara kaam bahot aasan ho jata hai.
 Exercise: Lightbot mein firse 2nd Stage ke sare level khel kar socho functions kahan use kare aur kaise functions yahan aapki help kar rahe hain.  
 **[Lighhtbot ka link](https://lightbot.com/flash.html).** 
 
-
-![lightbot](python20.png) 
+![lightbot](11-functions.png) 
 
