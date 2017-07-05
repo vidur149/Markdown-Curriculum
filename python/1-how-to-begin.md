@@ -1,4 +1,4 @@
-# Iss presentation ko kaise use karein?
+# Iss course ko kaise use karein?
 
 - Python kaise use karte hai, iss [**video**](https://www.youtube.com/watch?v=ccPrUbz1oto) ko dekh kar samjhe
 - Presentation mein kaafi saare examples diye gaye hai, unko dhyaan se padhe
