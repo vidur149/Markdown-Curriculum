@@ -1,7 +1,6 @@
-```ngmeta
+```ngMeta
 name: Comparison Signs (<, > , <=, >=, ==)
-
-completionMethod:
+completionMethod: peer
 ```
 
 # Comparison Signs (<, > , <=, >=, ==)
@@ -48,7 +47,6 @@ Chalo ab yeh questions karte hai:
 - 5)`100 ___ 200`. Agar aapko check karna hai ki kya `100 200` se bada hai? To blank mei kya likhoge?
 
 
-
 - 6)`200 ___ 9`. Agar aapko yah check karna hai ki kya `200 9` se chota hai? To blank mei kya likhoge? 
  
 - 7)Agar hume check karna hai ki kya `100 200` se bada hai? To hum kya likhenge?
@@ -83,9 +81,7 @@ Oopar wali statement kya question puch rahi hai?
  
 - 15)Hum yeh kaise check karenge ki kya 99 100 ke barabar hai? Aur iska kya jawab aayega?
 `>`
- 
- 
- 
+
 - 16)Hum yeh kaise check karenge ki kya 123 123 ke barabar hai? Aur iska kya jawab aayega?
 `>`
 - Jab kabhi bhi aapka PayTm balance khatam ho jata tab aapko aur pasise lene hote hai. Aapko agar yeh check karna hai ki kya aapka PayTm balance khatam ho gaya? Isko hum aise likh sakte hai:
@@ -122,5 +118,3 @@ Oopar wali statement kya question pooch rahi hai?
  
 - 23)Agar Time`>=7:30` ka jawab “Galat” hoga tab kya hoga? Chutti hogi ya nahi hogi?
 `>`
-
-
