@@ -18,7 +18,7 @@ completionMetho:
 
 - 1) Check karo ki kya 100 99 se bada hai? Agar hai to print karo **“bada hai”**, aur nahi to print karo **“Chota hai”**. Aapko isme if statement complete karni hai 
 
-![secnd if condition](/home/courage/Desktop/Markdown-Curriculum/2sY8y3hYcd2Dt_dSSdnca3HA.png)
+![secnd if condition](../Markdown-Curriculum/2sY8y3hYcd2Dt_dSSdnca3HA.png)
 
 - 2) Check karo ki kya 1000 4000 ke barabar hai ya usse bada hai? Agar hai to print karo “barabar ya bada hai”. Aur agar nahi hai to print karo “nahi hai”. Aapko isme print statement complete karni hai.
 
@@ -28,9 +28,9 @@ completionMetho:
 
 ![Forth if condition](/home/courage/Desktop/Markdown-Curriculum/4sZDbdlVmj_IWKiVGjTl9Iuw.png)
 
-		- *&*>Ab neeche diye gaye questions ka pura flowchart banao. Inn questions mein aapko khud print statement likhni hai jisse samajh aaye ki condition true false hone per kya ho raha hai**
+- **>Ab neeche diye gaye questions ka pura flowchart banao. Inn questions mein aapko khud print statement likhni hai jisse samajh aaye ki condition true false hone per kya ho raha hai**
 
-	- 1)**Ek flowchart banao jo check kare ki kya 100 ghata 33 55 ke barabar hai ya nahi?**
+- 1)**Ek flowchart banao jo check kare ki kya 100 ghata 33 55 ke barabar hai ya nahi?**
 	- 2)**Ek flowchart banao jo check kare ki kya 44 jama 200 123 ke barabar hai ya nahi?**
 	- 3)**Ek flowchart banao jo check kare ki kya 44 guna 3 123 ke barabar hai ya nahi?**
 	- 4)**EK flowchart banao jo check kare ki kya 22 bhag 2 10 se bada hai ya nahi?**
@@ -89,4 +89,23 @@ completionMetho:
 
 
 **Aise hi socho agar user 20 daale to. 20%2 0 ke barabar hai. Condition true hogi aur print hoga “Divisible Hai”**
-- 3) Ek flowchart banao jo user se **2 numbers input** le. Aur dono mein se bade number ko print kare. Jaise, agar user 100 aur 30 input kare, tab 100 print hona chahye.
+- 3) Ek flowchart banao jo user se **2 numbers input** le. Aur dono mein se bade number ko **print** kare. **Jaise**, agar user **100 aur 30** input kare, tab **100 print** hona chahye.
+
+![Do raw input](/home/courage/Desktop/Markdown-Curriculum/12sqMx03Q6-BVYwj__cPZKOYg.png)
+
+ 
+- 4) Ek flowchart banao jo user se **ek number input** le aur yeh check kare ki kya number **5 aur 15** dono se **divisible** hai?
+
+![Divisible rawi_nput](/home/courage/Desktop/Markdown-Curriculum/13s1BKHXRcD5PB0H_dOXwU3Hw.png)
+
+- **5)** Socho aap ek planet par ho jahan aap,
+	- **5 saal** ki umar ke baad school ja sakte ho. 
+	- **18 saal** ki umar ke baad vote de sakte ho. 
+	- **21 saal** ki umar ke baad car drive kar sakte ho.
+	- **24 saal** ki umar ke baad shaadi kar sakte ho.
+	- **25 saal** ke baad legally drink kar sakte ho.
+
+- Ab ek flowchart banao jo user se uski “**age**” input le. Aur **print** kare ki wo inme se kya kya cheezein kar sakta hai. 
+
+
+
