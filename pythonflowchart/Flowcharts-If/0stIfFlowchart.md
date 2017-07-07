@@ -1,8 +1,8 @@
 
-```ngmeta
+```ngMeta
 name: Flowcharts-If
 
-completionMetho:
+completionMethod:
 ```
 
 # Flowcharts-If

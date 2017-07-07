@@ -1,0 +1,11 @@
+```ngMeta
+name: flowcharts-lists
+
+completionMethod:
+```
+# flowcharts-lists
+
+ 
+- 6) Upar wale flowchart ko change karo aur unn number ka **sum yaani ki total** calculate karo jo `55` se bade hai. 
+**Dhyan de**: Iss flowchart ka output `126` hona chahiye.
+
