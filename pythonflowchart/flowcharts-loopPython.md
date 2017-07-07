@@ -56,9 +56,3 @@ Isko hum **loop** bolte hai. Loop matlab kisi cheez ko baar baar karna. Jaise ag
 ![10 flor](/home/courage/Desktop/Markdown-Curriculum/pythonflowchart/loop/6sdvcoxmTZ6apZBhj7XBW39w.png)
 
 - 5) Ek flowchart banao jo 20 se 100 mein wahi numbers print kare jo 2 se divisible hai yaani numbers ka 2 se bhaag karne par remainder (shesh) 0 bachta hai. 
-
-
-
-
-
-
