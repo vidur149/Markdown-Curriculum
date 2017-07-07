@@ -1,0 +1,11 @@
+```ngMeta
+name: flowcharts-lists
+
+completionMethod:
+```
+# flowcharts-lists
+
+- 10) Ek flowchart banao jo **upar** di gayi list mein se **maximum number yaani ki sabse bada number print** kare. 
+**Dhyan de**: Iss flowchart ka output 70 hona chahiye. 
+
+
