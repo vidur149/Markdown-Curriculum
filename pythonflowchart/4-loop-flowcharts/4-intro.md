@@ -7,13 +7,13 @@ completionMethod:
 
 - Agar aapko bola jaye ki ek **flowchart** banao jo **5 baar** “Navgurukul” print kare. Tab aap aisa kuch karenge
 
-- ![5 time print](https://storage.cloud.google.com/ng-curriculum-images/python-flowcharts/loop-worksheet/4-intro.png)
+![5 time print](https://storage.cloud.google.com/ng-curriculum-images/python-flowcharts/loop-worksheet/4-intro.png)
 
 - Socho agar aapko 1000 baar kuch print karna hai ya koi bhi same kaam bar bar karna hai? Tab kya aap **baar baar** print statement likhoge? 
 
 - Aise kaam karne ke liye hum **loop** ka use karte hai. **Loop** se aise kaam karna easy ho jata hai. Chalo ab dekhte hai ki loop kaise likhte hai. Aur loop kaise chalta hai. Neeche diye flowchart ko ek baar pehle khud samjhne ki koshish karna. Aisa ho sakta hai ki aap isse khud hi samajh jaye.
 
-- ![use loop ](https://storage.cloud.google.com/ng-curriculum-images/python-flowcharts/loop-worksheet/4-intro1.png)
+![use loop ](https://storage.cloud.google.com/ng-curriculum-images/python-flowcharts/loop-worksheet/4-intro1.png)
 
 - Hume Navgurukul 5 baar print karna hai.
 	- 1. Humne counter ko 0 se shuru kiya. **Counter** se hum count karenge ki hum kitni baar print kar chuke hai.
