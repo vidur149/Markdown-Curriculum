@@ -1,7 +1,6 @@
 ```ngMeta
 name: Nested Loops Output Questions
-completionMethod: 
-
+completionMethod: quesion 1 
 ```
 
 # Neeche diye gaye flowcharts ka output batao?
